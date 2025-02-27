@@ -18,7 +18,7 @@ Leather Brother — сучасний сайт-візитка для магази
 
 🖥️ [Переглянути проєкт](https://ormd.github.io/leather-brothers-shop/) | 📂 [Репозиторій](https://github.com/OrmD/leather-brothers-shop)
 
-**![Leather Brother](Leather-Brothers.png). **
+![Leather Brother](Leather-Brothers.png). 
 
 ### **Система авторизації користувачів**
 
